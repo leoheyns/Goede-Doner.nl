@@ -1,5 +1,7 @@
 # Goede-Doner.nl
 Waar haal je goede döner
+
+Een goede dürum heeft komkommer! 
 <h2>is dit goede döner</h2>
 <p>Bakkerij drieslag <b>fucking goede döner, 10 uit 10</b></p>
 <p>Met die palmboom <b>nee, 3 uit 10</b></p>
